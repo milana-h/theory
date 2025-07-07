@@ -1,6 +1,8 @@
 ### Теория тестирования
 📝 Суть задания: подбор универсального метода, типа и уровня тестирования по заданным требованиям.
 
- "Определение методов, типов и уровней тестирования для приложения интернет-магазин" https://docs.google.com/spreadsheets/d/1yDyMj_5Nq1cLQPxVVqPgHN_Pkh-l-kd1iEYPwNhGxCI/edit?usp=sharin
+✅Определение методов, типов и уровней тестирования для приложения интернет-магазин 
+https://docs.google.com/spreadsheets/d/1yDyMj_5Nq1cLQPxVVqPgHN_Pkh-l-kd1iEYPwNhGxCI/edit?usp=sharin
  
- "Теория Тестирования" https://docs.google.com/spreadsheets/d/1iSeLSRdqYbh-3BQ7UM4dJ1dqX0Tk0ePhMg2ZONVgVZs/edit?usp=drivesdk
+✅Анализ требований на предмет несоответствий
+https://docs.google.com/spreadsheets/d/1iSeLSRdqYbh-3BQ7UM4dJ1dqX0Tk0ePhMg2ZONVgVZs/edit?usp=drivesdk
